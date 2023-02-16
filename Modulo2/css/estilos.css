@@ -72,6 +72,11 @@
   }
 
   #editar {
-    width: 30%;
-    height: 62%;
+    width: 1rem;
+    height: 1rem;
+  }
+
+  .mas {
+    height: 1rem;
+    width: 1rem;
   }
